@@ -1,2 +1,15 @@
-# Gametime-Hero-Coding-Team-RSVP-Manager
- A small, focused module that helps manage RSVP responses for an event. This feature would be integrated into our platform — so we want to see clean, testable, and scalable code.
+# Gametime Hero RSVP Manager Challenge
+
+## Overview
+
+This project is a simple RSVP management module that supports:
+
+- Adding/updating RSVP status for players
+- Getting confirmed attendees
+- Counting total, confirmed, and declined responses
+
+## Run the project
+
+```bash
+npm install
+npm run start
